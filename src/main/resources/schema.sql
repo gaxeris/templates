@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS roles_model;
+CREATE SCHEMA IF NOT EXISTS roles_model_link;

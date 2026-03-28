@@ -1,13 +1,13 @@
-package com.gaxeris.app;
+package com.gaxeris.templates;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ServiceApplication {
+public class TemplatesApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ServiceApplication.class, args);
+        SpringApplication.run(TemplatesApplication.class, args);
     }
 
 }

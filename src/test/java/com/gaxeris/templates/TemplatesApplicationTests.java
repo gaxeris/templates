@@ -1,10 +1,10 @@
-package com.gaxeris.service;
+package com.gaxeris.templates;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ServiceApplicationTests {
+class TemplatesApplicationTests {
 
     @Test
     void contextLoads() {
